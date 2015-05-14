@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="MewZik.Views.NombreCancion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"  FocusManager.FocusedElement="{Binding ElementName=Texto}"
+             d:DesignHeight="300" d:DesignWidth="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Nombre de la canción" VerticalAlignment="Bottom" FontSize="40"
+                   Foreground="#FF00AEC9" 
+               Padding="10" Margin="-400,5,0,5" HorizontalAlignment="Center" >
+            <TextBlock.Effect>
+                <DropShadowEffect Opacity="0.5" ShadowDepth="0"
+                                  BlurRadius="10" Color="Black"/>
+            </TextBlock.Effect>
+        </TextBlock>
+
+        <TextBox Text="{Binding NombreCancion,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged,NotifyOnTargetUpdated=True}" 
+                 TargetUpdated="TextoTargetUpdated" VerticalAlignment="Top" Grid.Row="1" Width="600" x:Name="Texto"/>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Aceptar" IsDefault="True" Command="{Binding Aceptar}"/>
+            <Button Content="Cancelar" IsCancel="True" Command="{Binding Cancelar}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
+ 

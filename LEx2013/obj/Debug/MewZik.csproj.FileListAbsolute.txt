@@ -1,0 +1,105 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\MewZik.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\MewZik.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\MewZik.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\MahApps.Metro.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\bin\Debug\MahApps.Metro.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\App.baml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Resources\Icons.baml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\ImagedCircleButton.baml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\MetroMessageBoxView.baml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\NombreCancion.baml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\App.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\ImagedCircleButton.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\MetroMessageBoxView.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\NombreCancion.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik_Content.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik_MarkupCompile.cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik_MarkupCompile.lref
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Views\MainWindow.baml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\Recursos\RecursosLEX.baml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik.g.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\LEx2013\LEx2013\obj\Debug\MewZik.pdb
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MewZik.exe.config
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.exe
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.pdb
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MewZik.exe
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MewZik.pdb
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MahApps.Metro.dll
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MahApps.Metro.xml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.csprojResolveAssemblyReference.cache
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\App.baml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Resources\Icons.baml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\ImagedCircleButton.baml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\NombreCancion.baml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\App.g.cs
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\ImagedCircleButton.g.cs
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MainWindow.g.cs
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MetroMessageBoxView.g.cs
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\NombreCancion.g.cs
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik_Content.g.cs
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik_MarkupCompile.cache
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik_MarkupCompile.lref
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MainWindow.baml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Recursos\RecursosLEX.baml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MetroMessageBoxView.baml
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.g.resources
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.Properties.Resources.resources
+C:\Users\DenisJ\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.csproj.GenerateResource.Cache
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MewZik.exe.config
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.exe
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.pdb
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MewZik.exe
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MewZik.pdb
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MahApps.Metro.dll
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\bin\Debug\MahApps.Metro.xml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.csprojResolveAssemblyReference.cache
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\App.baml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Resources\Icons.baml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\ImagedCircleButton.baml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\NombreCancion.baml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\App.g.cs
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\ImagedCircleButton.g.cs
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MainWindow.g.cs
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MetroMessageBoxView.g.cs
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\NombreCancion.g.cs
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik_Content.g.cs
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik_MarkupCompile.cache
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik_MarkupCompile.lref
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MainWindow.baml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Recursos\RecursosLEX.baml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\Views\MetroMessageBoxView.baml
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.g.resources
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.Properties.Resources.resources
+C:\Users\denis\OneDrive\db\dev\LEx2013\LEx2013\obj\Debug\MewZik.csproj.GenerateResource.Cache
